@@ -11,3 +11,7 @@ end
 def first_element(array)
   return array_with_two_elements[0]
 end
+
+def third_element(array)
+  return array_with_two_elements[0]
+end

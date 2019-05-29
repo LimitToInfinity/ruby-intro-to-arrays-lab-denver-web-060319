@@ -16,3 +16,7 @@ def third_element(array)
   array_with_three_elements = ["Welcome to New York", "apples", "Style"]
   return array_with_three_elements[2]
 end
+
+def last_element(array)
+  return array_with_two_elements[-1]
+end

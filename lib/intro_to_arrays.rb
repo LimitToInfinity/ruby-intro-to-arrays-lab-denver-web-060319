@@ -5,5 +5,5 @@ end
 
 def array_with_two_elements
   two_elements_array = ["apples", "oranges"]
-  return new_array
+  return two_elements_array
 end

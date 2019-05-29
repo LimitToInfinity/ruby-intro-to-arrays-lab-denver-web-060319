@@ -27,6 +27,6 @@ def first_element_with_array_methods(array)
 end
 
 def first_element_with_array_methods(array)
-  array_with_five_elements = ["Thailand", "Welcome to New York", "apples", "Style"]
+  array_with_five_elements = ["Thailand", "Welcome to New York", "apples", "Style", "Canada"]
   return array_with_five_elements.first
 end

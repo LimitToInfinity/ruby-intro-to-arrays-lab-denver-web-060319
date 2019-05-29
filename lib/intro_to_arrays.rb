@@ -30,3 +30,8 @@ def last_element_with_array_methods(array)
   array_with_five_elements = ["Thailand", "Welcome to New York", "apples", "Style", "Myanmar"]
   return array_with_five_elements.last
 end
+
+def length_of_array(array)
+  array_with_five_elements = ["Thailand", "Welcome to New York", "apples", "Style", "Myanmar"]
+  return array_with_five_elements.last
+end

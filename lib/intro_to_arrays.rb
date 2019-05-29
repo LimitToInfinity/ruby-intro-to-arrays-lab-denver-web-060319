@@ -22,5 +22,6 @@ def last_element(array)
 end
 
 def first_element_with_array_methods(array)
-  return array_with_two_elements.first
+  array_with_four_elements = ["Thailand", "Welcome to New York", "apples", "Style"]
+  return array_with_four_elements.first
 end

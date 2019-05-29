@@ -4,7 +4,7 @@ def instantiate_new_array
 end
 
 def array_with_two_elements
-  two_elements_array = ["Welcome to New York", "oranges"]
+  two_elements_array = ["Welcome to New York", "Out of The Woods"]
   return two_elements_array
 end
 

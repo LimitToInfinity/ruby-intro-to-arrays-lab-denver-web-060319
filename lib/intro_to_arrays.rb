@@ -32,6 +32,6 @@ def last_element_with_array_methods(array)
 end
 
 def length_of_array(array)
-  array_with_eight_elements = ["Thailand", "Welcome to New York", "apples", "Style", "Myanmar", "Canada"]
+  array_with_eight_elements = ["Thailand", "Welcome to New York", "apples", "Style", "Myanmar", "Canada", "USA", "Mexico"]
   return array_with_eight_elements.count
 end

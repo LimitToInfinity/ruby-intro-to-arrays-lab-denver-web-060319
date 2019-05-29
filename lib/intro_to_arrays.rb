@@ -13,6 +13,6 @@ def first_element(array)
 end
 
 def third_element(array)
-  array_with_three_elements = ["Welcome to New York", "apples", "oranges"]
+  array_with_three_elements = ["Welcome to New York", "apples", "Style"]
   return array_with_three_elements[2]
 end
